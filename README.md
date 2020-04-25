@@ -30,7 +30,7 @@ Run:
 ```
 python requests.py
 ```
-This will return the inverted list. Change the list parameters in the file requests.py to get other results.
+This will return the inverted list. Change the list parameters in the file request.py to get other results.
 
 ## References
 
