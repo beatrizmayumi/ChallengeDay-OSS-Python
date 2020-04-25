@@ -12,7 +12,7 @@ Clone the repository:
 git clone https://github.com/beatrizmayumi/ChallengeDay-OSS-Python
 ```
 
-Intall the requests module:
+Install the requests module:
 
 ```
 pip install requests
